@@ -1,0 +1,11 @@
+{
+	"/": {
+		"title": "Home Page - React Template",
+		"description": "it's a home page of react template for heroku-like services",
+		"keywords": "react, template"
+	},
+	"/about": {
+		"title": "Home Page - React Template",
+		"description": "it's a home page of react template for heroku-like services"
+	}
+}
